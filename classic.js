@@ -34,7 +34,7 @@ participant: '0@s.whatsapp.net'
 },
 message: {
 listResponseMessage: {
-title: ` ◥◤◢◤ ★彡 𝑺𝑼𝑹𝑷𝑹𝑰𝑺𝑬𝑫 𝑯𝑼𝑯?彡★◥◣◥◤ `
+title: ` ‧₊˚ ⋅♡𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 ࣪ ִֶָ☾. `
 }
 }
 }
@@ -227,8 +227,8 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
-        body : `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁`,
+        title : `𝐆𝐇𝐎𝐒𝐓 𝗕𝗨𝗚`,
+        body : `𝆺𝅥⃝➳ᴹᴿ᭄𝐉𝐅𝐋𝐄𝐗 ོ ×፝֟͜×`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
@@ -238,8 +238,8 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿⧉⸙⫺`,
-        body : `⧉⸙FRANK⸙⧉⸙⫺`,
+        title : `‧₊˚ ⋅♡𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 ࣪ ִֶָ☾.`,
+        body : `‧₊˚ ⋅♡𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 ࣪ ִֶָ☾.`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -249,8 +249,8 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺`,
-        body : `⧉⸙CONFRONTER⧉`,
+        title : `‧₊˚ ⋅♡𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 ࣪ ִֶָ☾.`,
+        body : `‧₊˚ ⋅♡𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 ࣪ ִֶָ☾.`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -263,8 +263,8 @@ var lod = [
 "☫",
 "✚",
 "☫",
-	"☸",
-        "🧞‍♂️𝐏𝐨𝐧𝐠",	
+	"😎",
+        "𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 😎",	
 "Deadpool"
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '🧞‍♂️𝐏𝐨𝐧𝐠'})
@@ -329,7 +329,7 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ☸️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2☸️
+` ☸️𝐆𝐇𝐎𝐒𝐓 𝐁𝐔𝐆 𝐕1☸️
 ❗️𝐭𝐲𝐩𝐞 .𝐚𝐥𝐥𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
   ✳️𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫✳️`
 ]
@@ -788,8 +788,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' ☸️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2☸️',
-  body: '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁', 
+  title: '😎𝐆𝐇𝐎𝐒𝐓 𝐁𝐔𝐆 𝐕1😎',
+  body: '𝐆𝐇𝐎𝐒𝐓', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -860,15 +860,15 @@ sendGeekzMessage(from, {
 text: `Hey ${pushname} ${salam2}
 Deadpool :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
-  ✳️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2✳️
+  ✳️𝐆𝐇𝐎𝐒𝐓 𝐁𝐔𝐆 𝐕2✳️
   ❗️𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 𝚋𝚢 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫☪️
 ✝️𝗔𝗱𝗱 𝗔𝗰𝗰𝗲𝘀☆☆
- 💀𝐚𝐝𝐝𝐩𝐫𝐞𝐦 (628xx/@𝐭𝐚𝐠)
- 💀𝐝𝐞𝐥𝐩𝐫𝐞𝐦𝐢𝐮𝐦 (628𝐱𝐱/@𝐭𝐚𝐠)
- 💀𝐝𝐞𝐥𝐩𝐫𝐞𝐦 (628𝐱𝐱/@𝐭𝐚𝐠)
+ 💀𝐚𝐝𝐝𝐩𝐫𝐞𝐦 (255xx/@𝐭𝐚𝐠)
+ 💀𝐝𝐞𝐥𝐩𝐫𝐞𝐦𝐢𝐮𝐦 (6255𝐱𝐱/@𝐭𝐚𝐠)
+ 💀𝐝𝐞𝐥𝐩𝐫𝐞𝐦 (255𝐱𝐱/@𝐭𝐚𝐠)
  💀𝐥𝐢𝐬𝐭𝐩𝐫𝐞𝐦
- 💀𝐩𝐞𝐧𝐠𝐠𝐮𝐧𝐚 𝐚𝐝𝐝 (628𝐱𝐱)
- 💀𝐩𝐞𝐧𝐠𝐠𝐮𝐧𝐚 𝐝𝐞𝐥 (628𝐱𝐱)
+ 💀𝐩𝐞𝐧𝐠𝐠𝐮𝐧𝐚 𝐚𝐝𝐝 (255𝐱𝐱)
+ 💀𝐩𝐞𝐧𝐠𝐠𝐮𝐧𝐚 𝐝𝐞𝐥 (255𝐱𝐱)
  💀𝖆𝖚𝖙𝖔𝖘𝖙𝖆𝖙𝖚𝖘𝖛𝖎𝖊𝖜
  💀𝐩𝐮𝐛𝐥𝐢𝐜
  💀𝐬𝐞𝐥𝐟
@@ -1214,29 +1214,29 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🚦𝒎𝒆𝒓𝒅𝒆𝒌𝒂
  🚦𝒋𝒂𝒍𝒂𝒏𝒕𝒊𝒌𝒖𝒔-𝒎𝒆𝒎𝒆 
 
- ✝️SANGE 🇰🇪🇰🇪
-🇰🇪asupan1
-🇰🇪asupan2
-🇰🇪asupan3
-🇰🇪asupan4
-🇰🇪asupan5
-🇰🇪asupan6
-🇰🇪asupan7
-🇰🇪asupan8
-🇰🇪asupan9
-🇰🇪asupan10
-🇰🇪asupan11
-🇰🇪asupan12
-🇰🇪asupan13
-🇰🇪asupan14
-🇰🇪asupan15
-🇰🇪asupan16
-🇰🇪asupan17
-🇰🇪asupan18
-🇰🇪asupan18
-🇰🇪asupan20   
-┃    ▓ ❰ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻®2024 ❱ ▓
-┗━━━━━━━━━Regards to @𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁━━━━━━━━━━━━━`,
+ ✝️SANGE 🇹🇿🇹🇿
+🇹🇿asupan1
+🇹🇿asupan2
+🇹🇿asupan3
+🇹🇿asupan4
+🇹🇿asupan5
+🇹🇿asupan6
+🇹🇿asupan7
+🇹🇿asupan8
+🇹🇿asupan9
+🇹🇿asupan10
+🇹🇿asupan11
+🇹🇿asupan12
+🇹🇿asupan13
+🇹🇿asupan14
+🇹🇿asupan15
+🇹🇿asupan16
+🇹🇿asupan17
+🇹🇿asupan18
+🇹🇿asupan18
+🇹🇿asupan20   
+┃    🇹🇿 ❰ 𝐆𝐇𝐎𝐒𝐓®2024 ❱ 🇹🇿
+┗━━━━━━━━━Regards to @𝐆𝐇𝐎𝐒𝐓━━━━━━━━━━━━━`,
 mentions:[sender],
 contextInfo:{
 mentionedJid:[sender],
