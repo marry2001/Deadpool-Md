@@ -333,7 +333,7 @@ var hawemod = [
 ❗️𝐭𝐲𝐩𝐞 .𝐚𝐥𝐥𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
   ✳️𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫✳️`
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕2.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@𝐆𝐇𝐎𝐒𝐓 𝐕2.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -783,7 +783,7 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading() 
-	           ewe = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2`
+	           ewe = `𝐆𝐇𝐎𝐒𝐓 𝐁𝐔𝐆 𝐕2`
 let hiks = {
 image: cewegw, 
   caption: ewe,
@@ -854,7 +854,7 @@ mentionedJid:[sender],
 break
 case 'allmenu':
 await loading()
-if (isBan) return reply('*Motherfucker you are not owner😂🖕*')
+if (isBan) return reply('*Motherfucker you are not owner😂🖕 ask 𝐉𝐅𝐋𝐄𝐗 𝐎𝐆*')
 let fooutgdhsikzz = `Runtime : ⏳ ${runtime(process.uptime())}`
 sendGeekzMessage(from, { 
 text: `Hey ${pushname} ${salam2}
@@ -893,29 +893,29 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🔑𝐫𝐮𝐧𝐭𝐢𝐦𝐞
 ✝️𝑩𝑼𝑮 𝑴𝑬𝑵𝑼
  📍❴BUG + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵
- 🖋unliattention 62852X
- 🖋unlipending 62852X
- 🖋unlischedule 62852X
- 🖋cheduleunliios 62852X
- 🖋xios 62852X
- 🖋xandro 62852X
- 🖋xsistem 62852X
- 🖋xschedule 62852X
- 🖋++schedule 62852X
- 🖋scheduleobject 62852X
- 🖋eatmydickk 62852X
+ 🖋unliattention 255xxx
+ 🖋unlipending 255xxx
+ 🖋unlischedule 255xxx
+ 🖋cheduleunliios 255xxx
+ 🖋xios 255xxx
+ 🖋xandro 255xxx
+ 🖋xsistem 255xxx
+ 🖋xschedule 255xxx
+ 🖋++schedule 255xxx
+ 🖋scheduleobject 255xxx
+ 🖋eatmydickk 255xxx
    💜𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._💜
 
 🕸❴ 𝑩𝑼𝑮 + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵
- 🐝𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 62852𝑿
- 🐝𝒖𝒏𝒍𝒊𝒑𝒆𝒏𝒅𝒊𝒏𝒈 62852𝑿
- 🐝𝒖𝒏𝒍𝒊𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆 62852𝑿
- 🐝𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒖𝒏𝒍𝒊𝒊𝒐𝒔 62852𝑿
- 🐝𝒙𝒊𝒐𝒔 62852𝑿
- 🐝𝒙𝒂𝒏𝒅𝒓𝒐 62852𝑿
- 🐝𝒙𝒔𝒊𝒔𝒕𝒆𝒎 628𝒆 62852𝑿
- 🐝𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 62852𝑿
- 🐝𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 62852𝑿
+ 🐝𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 255xxx
+ 🐝𝒖𝒏𝒍𝒊𝒑𝒆𝒏𝒅𝒊𝒏𝒈 255xxx
+ 🐝𝒖𝒏𝒍𝒊𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆 255xxx
+ 🐝𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒖𝒏𝒍𝒊𝒊𝒐𝒔 255xxx
+ 🐝𝒙𝒊𝒐𝒔 255xxx
+ 🐝𝒙𝒂𝒏𝒅𝒓𝒐 255xxx
+ 🐝𝒙𝒔𝒊𝒔𝒕𝒆𝒎  255xxx
+ 🐝𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 255xxx
+ 🐝𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 255xxx
      𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._
 🕸❴ 𝑩𝑼𝑮 𝑮𝑹𝑶𝑼𝑷 ❵
  🦅𝒖𝒏𝒍𝒊𝒅𝒆𝒍𝒂𝒚𝒈𝒄 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
@@ -984,7 +984,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🌴𝐩𝐮𝐬𝐡𝐜𝐨𝐧𝐭𝐢𝐝 (𝐆𝐜 𝐋𝐢𝐧𝐤)
  🌴𝐩𝐮𝐬𝐡𝐤𝐨𝐧𝐭𝐚𝐤 𝐭𝐞𝐤𝐬 (𝐬𝐞𝐧𝐭 𝐭𝐨 𝐆𝐂)
 ✝️❴ GROUPMENU ❵
-          ❰ 𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇  💀❱
+          ❰ 𝐆𝐇𝐎𝐒𝐓  💀❱
  🧸𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖙𝖔𝖝𝖎𝖈 𝖔𝖓 / 𝖔𝖋𝖋
@@ -1750,7 +1750,7 @@ let form = new URLSearchParams()
 form.append("jazoest", $form.find("Input[name=jazoest]").val())
 form.append("lsd", $form.find("Input[name=lsd]").val())
 form.append("step", "submit")
-form.append("country_selector", "INDONESIA")
+form.append("country_selector", "TANZANIA")
 form.append("phone_number", `${targetnya}`,)
 form.append("email", email.data[0])
 form.append("email_confirm", email.data[0])
@@ -1808,7 +1808,7 @@ let form = new URLSearchParams()
 form.append("jazoest", $form.find("Input[name=jazoest]").val())
 form.append("lsd", $form.find("Input[name=lsd]").val())
 form.append("step", "submit")
-form.append("country_selector", "INDONESIA")
+form.append("country_selector", "TANZANIA")
 form.append("phone_number", `${targetnya}`,)
 form.append("email", email.data[0])
 form.append("email_confirm", email.data[0])
@@ -1866,7 +1866,7 @@ let form = new URLSearchParams()
 form.append("jazoest", $form.find("Input[name=jazoest]").val())
 form.append("lsd", $form.find("Input[name=lsd]").val())
 form.append("step", "submit")
-form.append("country_selector", "INDONESIA")
+form.append("country_selector", "TANZANIA")
 form.append("phone_number", `${targetnya}`,)
 form.append("email", email.data[0])
 form.append("email_confirm", email.data[0])
@@ -2117,11 +2117,11 @@ break
 //=================================================
 case 'bug?': case 'classic': case 'king': case 'oke': case 'fear': case 'virtex': case 'virteks': case 'virtext': case 'pirtek': case 'pirteks': case 'pirtex': case 'anjay':{
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')	
-zetsubo.sendMessage(m.chat, { text: `★彡 𝑺𝑼𝑹𝑷𝑹𝑰𝑺𝑬𝑫 𝑯𝑼𝑯?彡★`}, { quoted: qbug })
+zetsubo.sendMessage(m.chat, { text: `‧₊˚ ⋅♡𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 ࣪ ִֶָ☾.`}, { quoted: qbug })
 }
 break
   //=================================================
-case 'deadpool-react': {
+case 'JFLEX-react': {
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
 if (!m.quoted) return reply(`Penggunaan .${command} reply pesan`)
 await zetsubo.sendMessage(m.chat, { text: 'success 💀', contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363144038483540@newsletter', newsletterName: '؂ن؃؄ٽ؂ن؃؄ٽ'.repeat(10000), serverMessageId: 2 } }}, { quoted: qbug })
@@ -3306,8 +3306,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻FRAPNK⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝐆𝐇𝐎𝐒𝐓⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻𝐆𝐇𝐎𝐒𝐓⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -6946,8 +6946,8 @@ var groupInvite = generateWAMessageFromContent(from, proto.Message.fromObject({
 "inviteTime":"1688566586000",
 "expired":"0",
 "groupType":"0",
-"groupName": `༐༑⿻𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⿻༔༐༑${cttl}`,
-"caption": `༐༑⿻FRANK⿻༔༐༑${bugui}`,
+"groupName": `༐༑⿻JFLEX'S GC⿻༔༐༑${cttl}`,
+"caption": `༐༑⿻𝐆𝐇𝐎𝐒𝐓⿻༔༐༑${bugui}`,
 "jpegThumbnail": kosongjpg,
 }
 }), { userJid: from, quoted: kalgans })
@@ -8947,7 +8947,7 @@ await loading()
 break
 //=================================================//
 case 'git': case 'gitclone':
-if (!args[0]) return replygc(`Where is the link?\nExample :\n${prefix}${command} https://github.com/DGXeon/XeonMedia`)
+if (!args[0]) return replygc(`Where is the link?\nExample :\n${prefix}${command} https://github.com/Marry2001/Hitman47`)
 if (!isUrl(args[0]) && !args[0].includes('github.com')) return replygcxeon(`Link invalid!!`)
 let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
     let [, user, repo] = args[0].match(regex1) || []
@@ -9000,7 +9000,7 @@ https://cloud.google.com/translate/docs/languages
 case 'play':
     case 'play2': {
         if (!text) {
-            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝙷𝙴𝙰𝙳𝙻𝙸𝙶𝙷𝚃𝚂 𝙱𝚈 𝙰𝙻𝙰𝙽 𝚆𝙰𝙻𝙺𝙴𝚁')
+            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: Diamond komasava')
             return;
         }
         try {
